@@ -16,4 +16,4 @@ Criei uma página de Quiz para programadores web utilizando:
 
 Visualize a página:
 
-https://jvbcarv.github.io/Quiz_para_programadores_Atividade_/
+https://jvbcarv.github.io/Quiz_para_programadores_HTML/
